@@ -26,7 +26,7 @@ java -jar wls1034_generic.jar -mode=console
 >1、进入 cd /Oracle/Middleware/wlserver_10.3/common/bin目录<br/>
 >2、用ls命令查看目录下有哪些文件<br/>
 >3、执行. /config.sh 文件，创建域<br/>
-{% highlight text %}
+{% highlight ruby %}
 <------------------- Fusion Middleware Configuration Wizard ------------------>
 Welcome:
 --------

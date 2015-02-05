@@ -15,11 +15,11 @@ comments: false
 
 希望与有志同道合的人们多多交流，一起用代码改变世界！
 
+小小博客，分享点滴，见证成长！
+
 ##Contact me
 
-####Email：zhxulong_2013@163.com
-
-####Weibo：
+####Email： cnitzone@163.com
 
 ####Github：https://github.com/zhengxulong
 

@@ -143,6 +143,6 @@ memoryStoreEvictionPolicy="LRU" />
 再次刷新<br/>
 ![我的域名]({{ site.url }}/images/ehcache/ehcache3.png)<br/>
 可以看到子页面的内容不变，而父页面的内容改变了。<br/>
-PS：<p style="text-indent:30px; line-height:25px">include的jsp页面在filter中要指定<dispatcher>INCLUDE</dispatcher> ，
+<p style="text-indent:30px; line-height:25px">PS：include的jsp页面在filter中要指定<dispatcher>INCLUDE</dispatcher> ，
 如果没有指定任何< dispatcher >元素，默认值是REQUEST就不会拦截了。
  <url-pattern>是要缓存的子页面，就是用<jsp:include page="/jsp/child_cache.jsp"></jsp:include>包含进来的页面。</p>
